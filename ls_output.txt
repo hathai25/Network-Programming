@@ -1,0 +1,12 @@
+total 72
+drwxrwxr-x 3 hathai15 hathai15  4096 Thg 4   1 18:24 .
+drwxrwxr-x 9 hathai15 hathai15  4096 Thg 3  28 22:22 ..
+-rwxrwxr-x 1 hathai15 hathai15 17192 Thg 4   1 18:23 ex1
+-rw-rw-r-- 1 hathai15 hathai15  1103 Thg 4   1 18:23 Ex1.c
+-rw-rw-r-- 1 hathai15 hathai15  2049 Thg 4   1 18:24 ifconfig_output.html
+-rw-rw-r-- 1 hathai15 hathai15  2023 Thg 4   1 18:24 ifconfig_output.txt
+-rw-rw-r-- 1 hathai15 hathai15     0 Thg 4   1 18:24 ls_output.txt
+-rw-rw-r-- 1 hathai15 hathai15   250 Thg 4   1 18:23 output.html
+-rwxrwxr-x 1 hathai15 hathai15 16968 Thg 4   1 18:24 test
+-rw-rw-r-- 1 hathai15 hathai15  1349 Thg 4   1 18:23 test.c
+drwxrwxr-x 2 hathai15 hathai15  4096 Thg 3  28 22:59 .vscode
